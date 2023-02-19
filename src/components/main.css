@@ -1,0 +1,43 @@
+main{
+    text-align: center;
+    
+}
+
+.enter-city{
+ border-radius: 10px;
+ height: 20px;
+ margin: 10px;
+ text-align: center;
+}
+
+.submit{
+    height: 25px;
+    border-radius: 10px;
+}
+
+.city{
+    font-size: 40px;
+}
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.temperature{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    border: 1px solid #DBF6F8;
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #DBF6F8;
+}
+
+.sunset, .sunrise, .humidity{
+    font-size: 30px;
+}
