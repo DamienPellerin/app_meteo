@@ -1,8 +1,8 @@
 html{
-background-image: url('/Users/damien/nba/src/assets/img/meteo.jpg') ;
+background-image: url('../src/assets/img/meteo.jpg') ;
 background-size: cover;
 background-repeat: no-repeat;
-height: auto;
+height: 100%;
 display: flex;
 flex-direction: column;
 }
