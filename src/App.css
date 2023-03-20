@@ -1,9 +1,10 @@
 html{
-background-color: #016873b0;
+background-image: url('/Users/damien/nba/src/assets/img/meteo.jpeg') ;
+background-size: cover;
+background-repeat: no-repeat;
 height: auto;
 display: flex;
 flex-direction: column;
-margin-top: 5%;
 }
 
 /*.App {
